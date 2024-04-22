@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinhtran2611
+- 👋 Hi, I’m Vinh
 - 👀 I'm interested in Deep Learning
 
 <!---
